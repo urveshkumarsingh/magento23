@@ -1,0 +1,1 @@
+/usr/local/var/www/magento4/magento2/app/code/Magento/Catalog/view/frontend/web/js/view/image.js
